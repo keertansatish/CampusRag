@@ -1,0 +1,11 @@
+{
+  "pdfs_processed": 50,
+  "pages_processed": 201,
+  "questions_extracted": 611,
+  "questions_with_images": 136,
+  "images_extracted": 136,
+  "ocr_operations": 153,
+  "boundary_failures": 2,
+  "duplicates_detected": 1,
+  "errors": []
+}
