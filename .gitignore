@@ -12,3 +12,4 @@ wheels/
 
 # Generated extraction artifacts (can be rebuilt from RAG/*.pdf)
 data/extracted/
+data/question_images
