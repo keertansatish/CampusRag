@@ -13,3 +13,4 @@ wheels/
 # Generated extraction artifacts (can be rebuilt from RAG/*.pdf)
 data/extracted/
 data/question_images
+campus_rag_cia_papers
